@@ -1,4 +1,4 @@
-# 👩‍🎓 Digital Portfolio
+# 👩‍🎓 My Digital Portfolio
 
 
 This is my digital portfolio for **Project Presentation 3 (PRP372S)** . This repository contains evidence and reflections that align with my **Work Readiness Training** . 
